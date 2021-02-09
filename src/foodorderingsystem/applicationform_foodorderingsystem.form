@@ -312,7 +312,7 @@
                 <Component class="javax.swing.JButton" name="viewcart_btn">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="18" style="0"/>
+                      <Font name="Tahoma" size="18" style="3"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="View cart"/>
                   </Properties>
@@ -348,7 +348,7 @@
                 <Component class="javax.swing.JButton" name="payment_btn">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="18" style="0"/>
+                      <Font name="Tahoma" size="18" style="3"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Payment"/>
                   </Properties>

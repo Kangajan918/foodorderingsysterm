@@ -307,6 +307,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
         jPanel6.setBackground(new java.awt.Color(255, 47, 99));
 
         payment_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        payment_btn.setForeground(new java.awt.Color(255, 0, 255));
         payment_btn.setText("Payment");
         payment_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

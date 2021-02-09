@@ -260,7 +260,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel4.setBackground(new java.awt.Color(255, 47, 99));
 
-        bundles_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        bundles_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         bundles_btn.setText("Bundles");
         bundles_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

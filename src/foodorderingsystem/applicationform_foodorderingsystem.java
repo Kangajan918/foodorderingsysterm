@@ -191,7 +191,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 47, 99));
 
-        offer_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        offer_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
         offer_btn.setText("Offers");
         offer_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

@@ -191,7 +191,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 47, 99));
 
-        offer_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        offer_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         offer_btn.setText("Offers");
         offer_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -214,7 +214,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 47, 99));
 
-        apetizers_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        apetizers_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         apetizers_btn.setText("Apetizers");
         apetizers_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -237,7 +237,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel3.setBackground(new java.awt.Color(255, 47, 99));
 
-        beverages_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        beverages_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         beverages_btn.setText("Beverages");
         beverages_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -283,7 +283,8 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
 
         jPanel5.setBackground(new java.awt.Color(255, 47, 99));
 
-        viewcart_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        viewcart_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        viewcart_btn.setForeground(new java.awt.Color(255, 102, 102));
         viewcart_btn.setText("View cart");
         viewcart_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -307,6 +308,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
         jPanel6.setBackground(new java.awt.Color(255, 47, 99));
 
         payment_btn.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        payment_btn.setForeground(new java.awt.Color(255, 0, 255));
         payment_btn.setText("Payment");
         payment_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

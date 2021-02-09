@@ -284,7 +284,7 @@ public class applicationform_foodorderingsystem extends javax.swing.JFrame {
         jPanel5.setBackground(new java.awt.Color(255, 47, 99));
 
         viewcart_btn.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        viewcart_btn.setForeground(new java.awt.Color(255, 51, 102));
+        viewcart_btn.setForeground(new java.awt.Color(255, 102, 102));
         viewcart_btn.setText("View cart");
         viewcart_btn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
